@@ -13,6 +13,11 @@ echo ' ';
 echo 'Huffman';
 
 //Unlike Javascript, you can use whitespace liberally for greater readability and it won't break it.
+$another_name                                     = 'Powers'
+
+	; #stores another name
+
+echo $another_name;
 /*
  * Created by PhpStorm.
  * User: bhuff
